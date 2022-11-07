@@ -57,7 +57,7 @@ header p{
     align-items: center;
     padding-top: 30px;
     box-sizing: border-box;
-    transition: left .4s ease-in-out;
+    transition: left .8s ease-in-out;
 }
 .side-bar.activ{
     left: 0;
